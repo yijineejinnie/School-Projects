@@ -1,0 +1,46 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="mesh1.ply" filename="combined_mesh.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh2.ply" filename="mesh2.ply">
+   <MLMatrix44>
+0.533291 -0.0906298 -0.841063 209.261 
+0.0553006 0.995853 -0.072245 7.13158 
+0.844123 -0.00798373 0.536091 8.41121 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh3.ply" filename="mesh3.ply">
+   <MLMatrix44>
+-0.617664 0.0510246 -0.784785 304.208 
+0.0261177 0.998673 0.0443752 -12.8635 
+0.786008 0.00691218 -0.618177 207.116 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh4.ply" filename="mesh4.ply">
+   <MLMatrix44>
+-0.539841 0.0115191 0.841688 -3.85379 
+-0.0429341 0.998228 -0.0411985 8.88865 
+-0.840671 -0.0583777 -0.53839 376.699 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="mesh5.ply" filename="mesh5.ply">
+   <MLMatrix44>
+0.331369 0.0382176 0.942727 -114.11 
+-0.0036281 0.999224 -0.0392327 2.60526 
+-0.943494 0.00958021 0.331251 221.381 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
